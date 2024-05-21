@@ -30,7 +30,7 @@ The primary aim of this project was to enhance the accessibility and semantic st
 
 Although the alterations made to Horiseon's homepage haven't visibly changed its overall look, the restructured framework beneath the surface now offers clearer delineation of each section's role within the entire document. In essence, while the modifications may not be immediately evident, they enhance the website's coherence and comprehension. Should you require additional guidance or have inquiries regarding these adjustments, feel free to reach out!
 
-![Horiseon's updated home page](assets/screenshot/horiseon_new.png)
+![Horiseon's updated home page](./assets/screenshot/Horiseon_new.png)
 
 
 ## License
